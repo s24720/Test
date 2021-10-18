@@ -4,3 +4,4 @@ student@student-VirtualBox:~/Test$ git config --global user.email "s24720@pjwstk
 student@student-VirtualBox:~/Test$ git config --global user.email "s24720"
 student@student-VirtualBox:~/Test$ git commit -m "praca.cpp"
 
+213
