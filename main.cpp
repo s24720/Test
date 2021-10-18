@@ -4,7 +4,7 @@ using namespace std;
 
 int mian(){
 
-cout << "Hej ludzie jeszcze raz3" << endl;
+cout << "Hej ludzie jeszcze raz4" << endl;
 
 return 0;
 
