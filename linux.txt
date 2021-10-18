@@ -1,0 +1,6 @@
+student@student-VirtualBox:~/Test$ git config --global user .email "s24720@pjwstk.edu.pl"
+error: key does not contain a section: user
+student@student-VirtualBox:~/Test$ git config --global user.email "s24720@pjwstk.edu.pl"
+student@student-VirtualBox:~/Test$ git config --global user.email "s24720"
+student@student-VirtualBox:~/Test$ git commit -m "praca.cpp"
+
